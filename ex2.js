@@ -8,6 +8,7 @@ addition.addEventListener('click',(event)=>{
     input_val.value = counter;
 })
 
+
 subtraction.addEventListener('click',(event)=>{
     counter--;
     input_val.value = counter;
